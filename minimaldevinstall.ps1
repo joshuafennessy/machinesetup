@@ -27,6 +27,9 @@ choco install sourcetree -y
 #chrome
 choco install googlechrome -y
 
+#update env variables after all of the installs
+refreshenv
+
 #install Visual Studio Code extenstions
 #json
 #python
